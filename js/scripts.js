@@ -4,6 +4,6 @@ const pcolor = prompt('Inserisci il tuo colore preferito:');
 const pnumber = prompt('Inserisci il tuo numero preferito:');
 
 
-document.getElementById("message").innerHTML =
-"Hello" + fname + sname + pcolor + pnumber;
+document.getElementById("pass").innerHTML =
+fname + sname + pcolor + pnumber;
 
